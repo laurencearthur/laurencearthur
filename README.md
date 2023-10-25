@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **laurencearthur14@gmail.com**
 
-- 📄 Know about my experiences [https://bronze-tabbitha-4.tiiny.site](https://bronze-tabbitha-4.tiiny.site)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/laurence2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurence2002" height="30" width="40" /></a>
 <a href="https://instagram.com/laurencearthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laurencearthur" height="30" width="40" /></a>
 </p>
 
