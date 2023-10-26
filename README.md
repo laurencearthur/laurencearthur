@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laurencearthur14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JC-WrWwkukKVynLC6f8auyR36h4-0-oe/view?usp=drive_link](https://drive.google.com/file/d/1JC-WrWwkukKVynLC6f8auyR36h4-0-oe/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
